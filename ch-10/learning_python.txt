@@ -1,0 +1,3 @@
+In Python you can write a multiline string like this: """this is a multiline string""" or '''this is a multiline string'''. 
+In Python you can create a function with def keyword. A function is a block of code that performs a specific task. It can take parameters and return a value. A function can be called from another function or from the main program.
+In Python you can create a class with class keyword. A class is a blueprint for creating objects. It defines the properties and methods of the objects. A class can be instantiated to create an object. A class can be defined with or without a constructor.
